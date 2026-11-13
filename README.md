@@ -267,7 +267,6 @@ Movement, swinging, and camera controls are documented in-game. Press **H** whil
 | `src/engine/pkg/` | Generated WASM package output (build artifact) |
 | `public/` | Static assets served by the app |
 | `dist/` | Production build output |
-| [`plan.md`](./plan.md) | Performance optimization checklist and notes |
 | [`mise.toml`](./mise.toml) | Task shortcuts for WASM and app workflows |
 
 ## ⚙️ Performance tips
