@@ -59,7 +59,7 @@ This repository is a non-commercial fan project and technical demo meant for loc
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/spiderbench.git
+git clone https://github.com/sir-siren/spiderbench.git
 cd spiderbench
 ```
 
